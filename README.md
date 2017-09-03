@@ -5,4 +5,4 @@ Sample result of Ninja Finder challenge
 Very simple Spring Boot application - starts on 8080 by default.
 
 # Hosted app
-See the application in action [here](http://www.perdu.com)
+See the application in action [here](https://ninja-finder.herokuapp.com/).
